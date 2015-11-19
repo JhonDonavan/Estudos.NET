@@ -21,8 +21,6 @@ namespace Aula_02___PostGetModel.Content
                 Email = "jhonDonavan@gmail.com"
             };
 
-            
-
             return View(pessoa);
         }
 
