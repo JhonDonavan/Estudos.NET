@@ -65,11 +65,14 @@
             @Html.ValidationMessageFor(model => model.ConfirmarSenha)
         </div>
 
-
+        <p>
+            <input type="submit" value="Cadastrar"/>
+        </p>
     </fieldset>
 }
-{
-  
+
+@section Scripts{
+    @Scripts.Render("~/budles/jqueryval")
 }
 
 

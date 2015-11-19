@@ -1,5 +1,49 @@
-﻿@{
-    ViewBag.Title = "resultado";
+﻿@model Aula_03___ExemploValidacao.Models.Pessoa
+@{
+    ViewBag.Title = "Lista da pessoa valida";
 }
 
-<h2>resultado</h2>
+<h2>Lista de dados da pessoa</h2>
+
+<fieldset>
+    <legend>Pessoa</legend>
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Nome)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Nome)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Observacao)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Observacao)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Idade)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Idade)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Email)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Email)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Login)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Login)
+    </div>
+
+</fieldset>
+
+<p>
+    @Html.ActionLink("voltar", "Index")
+</p>

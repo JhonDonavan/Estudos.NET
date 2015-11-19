@@ -19,6 +19,16 @@ namespace Aula_03___ExemploValidacao.Controllers
         [HttpPost]
         public ActionResult Index(Pessoa pessoa)
         {
+           /* if (string.IsNullOrEmpty(pessoa.Nome))
+            {
+                ModelState.AddModelError("Nome", "O campo nome é obrigatorio");
+            }
+
+            if (pessoa.Senha != pessoa.ConfirmarSenha)
+            {
+                ModelState.AddModelError("" , "As senhas não conferem");
+            }*/
+
             if (ModelState.IsValid)
             {
                 return View("Resultado", pessoa);
