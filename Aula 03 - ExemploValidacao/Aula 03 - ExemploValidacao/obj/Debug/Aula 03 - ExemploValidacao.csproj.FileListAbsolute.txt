@@ -1,0 +1,30 @@
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\Aula 03 - ExemploValidacao.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\Aula 03 - ExemploValidacao.pdb
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\Antlr3.Runtime.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\EntityFramework.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\Newtonsoft.Json.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\System.Net.Http.Formatting.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\System.Web.Http.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\System.Web.Http.WebHost.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\System.Web.Mvc.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\System.Web.Optimization.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\System.Web.Providers.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\System.Web.Razor.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\System.Web.WebPages.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\System.Web.WebPages.Razor.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\WebGrease.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\EntityFramework.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\Newtonsoft.Json.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\System.Net.Http.Formatting.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\System.Web.Http.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\System.Web.Http.WebHost.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\System.Web.Mvc.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\System.Web.Razor.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\System.Web.WebPages.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\bin\System.Web.WebPages.Razor.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\obj\Debug\Aula 03 - ExemploValidacao.csprojResolveAssemblyReference.cache
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\obj\Debug\Aula 03 - ExemploValidacao.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 03 - ExemploValidacao\Aula 03 - ExemploValidacao\obj\Debug\Aula 03 - ExemploValidacao.pdb
