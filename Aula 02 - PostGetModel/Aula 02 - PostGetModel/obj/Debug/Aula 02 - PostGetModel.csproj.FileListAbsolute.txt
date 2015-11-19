@@ -1,0 +1,30 @@
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\Aula 02 - PostGetModel.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\Aula 02 - PostGetModel.pdb
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\Antlr3.Runtime.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\EntityFramework.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\Newtonsoft.Json.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\System.Net.Http.Formatting.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\System.Web.Http.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\System.Web.Http.WebHost.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\System.Web.Mvc.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\System.Web.Optimization.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\System.Web.Providers.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\System.Web.Razor.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\System.Web.WebPages.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\System.Web.WebPages.Razor.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\WebGrease.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\EntityFramework.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\Newtonsoft.Json.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\System.Net.Http.Formatting.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\System.Web.Http.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\System.Web.Http.WebHost.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\System.Web.Mvc.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\System.Web.Razor.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\System.Web.WebPages.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\bin\System.Web.WebPages.Razor.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\obj\Debug\Aula 02 - PostGetModel.csprojResolveAssemblyReference.cache
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\obj\Debug\Aula 02 - PostGetModel.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 02 - PostGetModel\Aula 02 - PostGetModel\obj\Debug\Aula 02 - PostGetModel.pdb
