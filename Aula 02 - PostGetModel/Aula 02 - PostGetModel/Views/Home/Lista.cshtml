@@ -1,0 +1,28 @@
+﻿@model Aula_02___PostGetModel.Models.Pessoa
+@{
+    ViewBag.Title = "Lista";
+}
+
+<h2>Lista</h2>
+<div>
+    <b>@Html.LabelFor(x=> x.PessoaId)</b>
+</div>
+<div>
+    @Model.PessoaId
+</div>
+
+<div>
+    <b>@Html.LabelFor(x=> x.Nome)</b>
+</div>
+<div>
+    @Model.Nome
+</div>
+
+<div>
+    <b>@Html.LabelFor(x=> x.Email):</b>
+</div>
+<div>
+    @Model.Email
+</div>
+<br/><br/><br/>
+@Html.ActionLink("Voltar", "index", "Home")

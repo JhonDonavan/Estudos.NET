@@ -16,11 +16,18 @@ namespace Aula_02___PostGetModel.Content
         {
             var pessoa = new Pessoa
             {
-                PessoaId = 1,
+                PessoaId = 2,
                 Nome = "Jhon Donavan",
                 Email = "jhonDonavan@gmail.com"
             };
 
+            return View(pessoa);
+        }
+
+        [HttpPost]
+        public ActionResult Lista(Pessoa pessoa)
+        {
+           
             return View(pessoa);
         }
 
