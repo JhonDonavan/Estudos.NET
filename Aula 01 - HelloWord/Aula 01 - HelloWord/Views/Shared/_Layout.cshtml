@@ -8,9 +8,14 @@
     @Scripts.Render("~/bundles/modernizr")
 </head>
 <body>
+    <h1>MeuSite.com.br</h1> 
+    @Html.ActionLink("Home", "Index", "Home")<br />
+    @Html.ActionLink("Veja o sobre", "Sobre", "Home")
     @RenderBody()
 
     @Scripts.Render("~/bundles/jquery")
     @RenderSection("scripts", required: false)
+
+    <footer>Meusite.com.br Todos os direitos reservado</footer>
 </body>
 </html>
