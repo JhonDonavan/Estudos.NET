@@ -1,20 +1,10 @@
 ﻿@model IEnumerable<Aula_04___RotasMVC.Models.Noticia>
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "TodasNoticias";
 }
 
-<h2>Rotas em MVC ASP NET</h2>
+<h2>Todas as Noticias</h2>
 
-<div>
-    <ul>
-        @foreach (string item in ViewBag.Categorias)
-        {
-            <li>@Html.ActionLink(item, "MostraCategoria", "Home", new {@Categoria = item}, null)</li>
-            
-        }
-    </ul>
-</div>
-    
 <div>
     <ul>
         @foreach (var item in Model)
@@ -30,7 +20,4 @@
             </li>
         }
     </ul>
-</div>
-<div>
-    @Html.ActionLink("Todas as Noticias", "todasNoticias" , "Home")
 </div>
