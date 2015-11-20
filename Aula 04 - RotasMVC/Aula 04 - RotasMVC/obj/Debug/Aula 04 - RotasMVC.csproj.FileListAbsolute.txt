@@ -1,0 +1,30 @@
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\Aula 04 - RotasMVC.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\Aula 04 - RotasMVC.pdb
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\Antlr3.Runtime.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\EntityFramework.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\Newtonsoft.Json.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\System.Web.Http.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\System.Web.Mvc.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\System.Web.Optimization.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\System.Web.Providers.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\System.Web.Razor.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\System.Web.WebPages.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\WebGrease.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\EntityFramework.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\Newtonsoft.Json.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\System.Web.Http.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\System.Web.Mvc.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\System.Web.Razor.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\System.Web.WebPages.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\obj\Debug\Aula 04 - RotasMVC.csprojResolveAssemblyReference.cache
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\obj\Debug\Aula 04 - RotasMVC.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 04 - RotasMVC\Aula 04 - RotasMVC\obj\Debug\Aula 04 - RotasMVC.pdb
