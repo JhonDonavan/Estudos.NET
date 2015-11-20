@@ -3,14 +3,14 @@
     ViewBag.Title = "Categoria";
 }
 
-<h2>MCategoria: @ViewBag.Categoria</h2>
+<h2>Categoria: @ViewBag.Categoria</h2>
 
 <div>
     <ul>
         @foreach (var item in Model)
         {
             <li>
-                @Html.ActionLink(item.Titulo, "MostraNoticia", "Home", new
+                @Html.ActionLink(item.Titulo, "MostrarNoticia", "Home", new
                 {
                     @noticiaId = item.NoticiaId,
                     @categoria = item.Categoria.ToLower(),

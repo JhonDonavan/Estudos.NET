@@ -13,6 +13,25 @@ namespace Aula_04___RotasMVC
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
+            routes.MapRoute
+                (
+                name: "Todas as noticias",
+                url: "Noticias/",
+                defaults: new {controller = "Home", action = "todasnoticias"}
+                );
+
+            routes.MapRoute(
+                name: "Categoria Especifica",
+                url: "Noticias/{categoria}",
+                defaults: new {controller = "Home", action = "MostraCategoria"}
+                );
+
+            routes.MapRoute(
+                name: "Mostra Noticia",
+                url: "noticias/{categoria}/{Titulo}-{noticiaId}",
+                defaults: new { controller = "Home", action = "MostrarNoticia" }
+                ); 
+
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
