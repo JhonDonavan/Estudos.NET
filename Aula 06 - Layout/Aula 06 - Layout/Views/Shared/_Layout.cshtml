@@ -8,9 +8,27 @@
     @Scripts.Render("~/bundles/modernizr")
 </head>
 <body>
+
+    @RenderPage("~/Views/Shared/_Topo.cshtml")
+
+    @Html.Partial("_MenuLateral")
+    <hr/>
     @RenderBody()
 
-    @Scripts.Render("~/bundles/jquery")
-    @RenderSection("scripts", required: false)
+    <hr/>
+
+@if(IsSectionDefined("rodape"))
+    {
+       @RenderSection("rodape") 
+    }
+    else
+    {
+        @Html.Partial("_rodape")
+    }
+
+
+
+@Scripts.Render("~/bundles/jquery")
+@RenderSection("scripts", required: false)
 </body>
 </html>
