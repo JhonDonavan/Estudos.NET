@@ -16,8 +16,9 @@ namespace Aula_07___UsandoAreas
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
-            );
+                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional },
+                namespaces: new[] {"Aula_07___UsandoAreas.Controllers"}   
+             );
         }
     }
 }
