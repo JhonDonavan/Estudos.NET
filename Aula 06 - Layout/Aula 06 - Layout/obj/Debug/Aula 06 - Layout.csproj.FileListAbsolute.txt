@@ -28,3 +28,6 @@ C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 06 - Layout\Aula 06
 C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 06 - Layout\Aula 06 - Layout\obj\Debug\Aula 06 - Layout.csprojResolveAssemblyReference.cache
 C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 06 - Layout\Aula 06 - Layout\obj\Debug\Aula 06 - Layout.dll
 C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 06 - Layout\Aula 06 - Layout\obj\Debug\Aula 06 - Layout.pdb
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 06 - Layout\Aula 06 - Layout\bin\System.Web.Helpers.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 06 - Layout\Aula 06 - Layout\bin\WebActivator.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 06 - Layout\Aula 06 - Layout\bin\System.Web.Helpers.xml
