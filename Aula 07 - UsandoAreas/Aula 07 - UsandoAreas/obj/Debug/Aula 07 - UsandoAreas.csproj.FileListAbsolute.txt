@@ -1,0 +1,49 @@
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\Aula 07 - UsandoAreas.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\Aula 07 - UsandoAreas.pdb
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\Antlr3.Runtime.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\DotNetOpenAuth.Core.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\EntityFramework.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\Newtonsoft.Json.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\System.Net.Http.Formatting.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\System.Web.Helpers.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\System.Web.Http.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\System.Web.Http.WebHost.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\System.Web.Mvc.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\System.Web.Optimization.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\System.Web.Razor.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\System.Web.WebPages.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\System.Web.WebPages.Razor.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\WebGrease.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\WebMatrix.Data.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\WebMatrix.WebData.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\EntityFramework.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\Newtonsoft.Json.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\System.Net.Http.Formatting.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\System.Web.Helpers.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\System.Web.Http.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\System.Web.Http.WebHost.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\System.Web.Mvc.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\System.Web.Razor.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\System.Web.WebPages.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\System.Web.WebPages.Razor.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\WebMatrix.Data.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\WebMatrix.WebData.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\DotNetOpenAuth.Core.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\obj\Debug\Aula 07 - UsandoAreas.csprojResolveAssemblyReference.cache
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\obj\Debug\Aula 07 - UsandoAreas.dll
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\Aula 07 - UsandoAreas\Aula 07 - UsandoAreas\obj\Debug\Aula 07 - UsandoAreas.pdb
