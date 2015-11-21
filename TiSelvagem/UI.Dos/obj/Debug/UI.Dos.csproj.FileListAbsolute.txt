@@ -1,1 +1,6 @@
 C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\TiSelvagem\UI.Dos\bin\Debug\UI.Dos.exe.config
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\TiSelvagem\UI.Dos\bin\Debug\UI.Dos.exe
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\TiSelvagem\UI.Dos\bin\Debug\UI.Dos.pdb
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\TiSelvagem\UI.Dos\obj\Debug\UI.Dos.csprojResolveAssemblyReference.cache
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\TiSelvagem\UI.Dos\obj\Debug\UI.Dos.exe
+C:\Users\AlunoInfnet\Desktop\Estudos DotNet\Estudos.NET\TiSelvagem\UI.Dos\obj\Debug\UI.Dos.pdb
