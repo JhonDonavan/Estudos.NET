@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
@@ -14,18 +16,31 @@ namespace UI.Dos
 
         public Contexto()
         {
-            MinhaConexao = new SqlConnection(@"data source = NET-INFNET-V4\SQLEXPRESS; integrated security=SSPI; Initial Catalog=TiSelvagem");
+            MinhaConexao = new SqlConnection(ConfigurationManager.ConnectionString["TISelvagem"].ConnectionString);
             MinhaConexao.Open();
         }
 
         public void ExecutaComando(string strQuery)
         {
+            var cmdComando = new SqlCommand
+            {
+                CommandText = strQuery,
+                CommandType = CommandType.Text,
+                Connection = MinhaConexao
+            };
+            cmdComando.ExecuteNonQuery();
+        }
 
+        public SqlDataReader ExecutaComandoComRetorno(string strQuery) {
+            var cmdComando = new SqlCommand(strQuery, MinhaConexao);
+            return cmdComando.ExecuteReader();
         }
 
         public void Dispose()
         {
-            throw new NotImplementedException();
+            if (MinhaConexao.State == ConnectionState.Open)
+                MinhaConexao.Close();
+           
         }
     }
 }

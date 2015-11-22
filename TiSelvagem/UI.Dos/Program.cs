@@ -12,18 +12,9 @@ namespace UI.Dos
     {
         static void Main(string[] args)
         {
-            SqlConnection minhaconexao = new SqlConnection(@"data source = NET-INFNET-V4\SQLEXPRESS; integrated security=SSPI; Initial Catalog=TiSelvagem");
-            minhaconexao.Open();
+            var contexto = new Contexto();
 
             
-
-            /*string strQueryUpdate = "Update alunos  set nome = 'Jhon D. M de Olveira' where AlunoId =1 ";
-            SqlCommand cmdComandoUpdate = new SqlCommand(strQueryUpdate, minhaconexao);
-            cmdComandoUpdate.ExecuteNonQuery();*/
-
-            /*string strQueryDelete = "Delete from Alunos where AlunoId =2 ";
-            SqlCommand cmdComandoDelete = new SqlCommand(strQueryDelete, minhaconexao);
-            cmdComandoDelete.ExecuteNonQuery();*/
 
             Console.Write("Digite o nome do Aluno: ");
             string nome = Console.ReadLine();
@@ -34,14 +25,16 @@ namespace UI.Dos
             Console.Write("Digite a data de nascimento do aluno: ");
             string data = Console.ReadLine();
 
-            string strQueryInsert =string.Format("insert into Alunos (Nome, Mae, DataNascimento) values ('{0}','{1}', '{2}')",nome, mae, data);
-            SqlCommand cmdComandoInsert = new SqlCommand(strQueryInsert, minhaconexao);
-            cmdComandoInsert.ExecuteNonQuery();
-
-
+            string strQueryInsert =string.Format("insert into Alunos " +
+            "(Nome, Mae, DataNascimento) values ('{0}','{1}', '{2}')",nome, mae, data);
+            
+            contexto.ExecutaComando(strQueryInsert);
+            
+            
             string strQuerySelect = "Select * from Alunos";
-            SqlCommand cmdComandoSelect = new SqlCommand(strQuerySelect,minhaconexao);
-            SqlDataReader dados = cmdComandoSelect.ExecuteReader();
+
+
+            SqlDataReader dados = contexto.ExecutaComandoComRetorno(strQuerySelect); 
 
             while (dados.Read())
             {
