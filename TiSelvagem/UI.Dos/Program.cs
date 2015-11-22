@@ -23,8 +23,19 @@ namespace UI.Dos
             Console.Write("Digite a data de nascimento do aluno: ");
             string data = Console.ReadLine();
 
-            new AlunoAplicacao().insert(nome, mae, data);
 
+            var aluno = new Aluno
+            {
+                Nome = nome,
+                Mae = mae,
+                DataNascimento = DateTime.Parse(data)
+            };
+
+            aluno.Id = 10;
+           
+
+            new AlunoAplicacao().alterar(aluno);
+            
       
             string strQuerySelect = "Select * from Alunos";
 
