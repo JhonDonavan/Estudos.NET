@@ -14,8 +14,6 @@ namespace UI.Dos
         {
             var contexto = new Contexto();
 
-            
-
             Console.Write("Digite o nome do Aluno: ");
             string nome = Console.ReadLine();
 
@@ -25,12 +23,9 @@ namespace UI.Dos
             Console.Write("Digite a data de nascimento do aluno: ");
             string data = Console.ReadLine();
 
-            string strQueryInsert =string.Format("insert into Alunos " +
-            "(Nome, Mae, DataNascimento) values ('{0}','{1}', '{2}')",nome, mae, data);
-            
-            contexto.ExecutaComando(strQueryInsert);
-            
-            
+            new AlunoAplicacao().insert(nome, mae, data);
+
+      
             string strQuerySelect = "Select * from Alunos";
 
 
